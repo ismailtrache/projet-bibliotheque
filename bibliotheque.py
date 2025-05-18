@@ -5,7 +5,7 @@ def menu():
     livres = charger_livres()
 
     while True:
-        print("\n=== MENU ===")
+        print("\n=== MENU DE LA BIBLIOTEQUE DE ISMAIL TRACHE ==")
         print("1. Afficher tous les livres")
         print("2. Ajouter un livre")
         print("3. Supprimer un livre")
